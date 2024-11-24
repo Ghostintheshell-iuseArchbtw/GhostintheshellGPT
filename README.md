@@ -1,5 +1,4 @@
 # GhostintheshellGPT: AI-Enhanced Terminal in C++
-######################################################
 IN ACTIVE DEVELOPMENT THIS IS RELEASE v1.0
 ######################################################
 Welcome to **GhostintheshellGPT**, a cutting-edge terminal application built in **C++**, seamlessly integrating **AI capabilities** for unparalleled productivity. With its high-performance architecture and robust features, **GhostintheshellGPT** is your ultimate tool for interacting with AI models, including **Llama.cpp**, and customizing terminal workflows.
